@@ -1,0 +1,92 @@
+.App-header {
+  background-color: #282c34;
+  display: flex;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+.account{
+  text-align: center;
+  margin-top: 20px;
+  color:#141f1f;
+  font-family: 'Open Sans', sans-serif;
+}
+.Table{
+  margin-left: 25%;
+  margin-top: 50px;
+}
+table {
+  width: 60%;
+  text-align: center;
+  margin-top: 20px;
+  border-bottom-color: black;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+}
+th, td {
+    height: 50px;
+    border-bottom: 1px solid #ddd;
+}
+.vote{
+  margin-top: 30px;
+  text-align: center;
+}
+.vote1 select{
+  margin-bottom: 20px;
+  height: 30px;
+  width: 50%;
+  border: none;
+  border-bottom: 2px solid black;
+  border-top: 2px solid black;
+}
+.vote2 button{
+  font-size: 20px;
+  border: none;
+  border: 2px solid black;
+  width:100px;
+  font-family: 'Open Sans', sans-serif;
+  border-spacing: inherit;
+  background-color: inherit;
+  background-color: #66b3ff;
+}
+.selectcandidate{
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+.endshowvote{
+  text-align: center;
+  margin-top: 20px;
+}
+.endvote{
+  font-size: 20px;
+  border: none;
+  border: 2px solid black;
+  width:50%;
+  font-family: 'Open Sans', sans-serif;
+  border-spacing: inherit;
+  background-color: inherit;
+  background-color: #ff1a1a;
+}
+.show{
+  text-align: center;
+}
+.showvote{
+  font-size: 20px;
+  border: none;
+  border: 2px solid black;
+  width:200px;
+  font-family: 'Open Sans', sans-serif;
+  border-spacing: inherit;
+  background-color: inherit;
+  background-color: #00b33c;
+}
+.voteEnd{
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+.showToVote{
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
